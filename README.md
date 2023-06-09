@@ -11,4 +11,6 @@
 
 ![GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&count_private=true&show_icons=true&theme=dracula&locale=cn)
 
+![Top Langs](https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&count_private=true)
