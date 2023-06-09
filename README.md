@@ -17,5 +17,5 @@
   <img align="left" src="https://github-readme.rumosky.com/api?username=rumosky&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&locale=cn" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=compact&theme=dracula&locale=cn" />
+  <img align="left" src="https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=compact&theme=dracula&locale=cn" />
 </a>
