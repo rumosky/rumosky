@@ -15,5 +15,5 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github-readme.rumosky.com/api?username=rumosky&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&locale=cn" />
-  <img src="https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=donut&theme=dracula&locale=cn" />
+  <img src="https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=pie&theme=dracula&locale=cn" />
 </div>
