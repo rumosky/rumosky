@@ -9,4 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&show_icons=true&theme=dracula&count_private=true)
+![GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&count_private=true)
