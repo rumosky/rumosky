@@ -11,5 +11,5 @@
 
 ![GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&locale=cn)
 
-![Top Langs](https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=compact&locale=cn)
+![Top Langs](https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=compact&theme=dracula&locale=cn)
 
