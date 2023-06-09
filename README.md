@@ -1,4 +1,4 @@
-### Hi there 👋
+### 关于 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,9 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&locale=cn)
+正在建设中……
 
-![Top Langs](https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=compact&theme=dracula&locale=cn)
+### 统计
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github-readme.rumosky.com/api?username=rumosky&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&locale=cn" />
