@@ -9,8 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&count_private=true&show_icons=true&theme=dracula&locale=cn)
+![GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&locale=cn)
 
-![Top Langs](https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=compact)
+![Top Langs](https://github-readme.rumosky.com/api/top-langs/?username=rumosky&layout=compact&locale=cn)
 
-![Anurag's GitHub stats](https://github-readme.rumosky.com/api?username=rumosky&count_private=true)
